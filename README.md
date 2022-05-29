@@ -1,3 +1,2 @@
 # habits
-to track my habits
-first habit -> [here](https://github.com/koksalmis/habits/blob/main/readbook.md)
+## created this repo to track my habits and also to visiualize
