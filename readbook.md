@@ -1,4 +1,4 @@
-# Read 50 pages / daily
+# read 50 pages / daily
 
 ## put :fire: when you read
 
