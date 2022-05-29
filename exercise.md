@@ -1,6 +1,6 @@
 # do exercise 50 pages / once in two days
 
-## put :fire: when you read
+## put :muscle: when exercise
 
 | :weight_lifting_man: | January | February | March | April | May      | June | July | August | Sept. | Oct. | Nov. | Dec. |
 | -------------------- | ------- | -------- | ----- | ----- | -------- | ---- | ---- | ------ | ----- | ---- | ---- | ---- |
