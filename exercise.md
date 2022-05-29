@@ -1,4 +1,4 @@
-# do exercise 50 pages / once in two days
+# exercise / once in two days
 
 ## put :muscle: when exercise
 
